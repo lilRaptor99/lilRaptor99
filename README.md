@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Pratheek Senevirathne 👋
+
+[![Pratheek's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilRaptor99&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/lilRaptor99)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilRaptor99&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/lilRaptor99)
+
 
 <!--
 **lilRaptor99/lilRaptor99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
